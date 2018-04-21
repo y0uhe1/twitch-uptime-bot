@@ -34,7 +34,7 @@ access_token_secret = "ACCESS_TOKEN_SECRET"
 2. `go build`
 3. ビルドされた実行ファイルを実行
 4. http://localhost:8080/start でジョブスタート
-5. http://localhost:8080/stop でジョブスタート
+5. http://localhost:8080/stop でジョブストップ
 
 ### 利用しているBOT
 Tweetのイメージは利用しているBOTのつぶやきを参照
